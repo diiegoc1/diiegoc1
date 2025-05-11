@@ -12,7 +12,7 @@
 
 - - **Back-End**:
     
-   [![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=javascript,java,nodejs&theme=light)](https://skillicons.dev)
 - - **Softwares and Tools**:
   
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
