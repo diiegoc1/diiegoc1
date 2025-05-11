@@ -21,6 +21,6 @@
 ## Contact with me
 
    [![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/diiego192)
-   [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](diiegocabello19@gmail.com)
+   [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://diiegocabello19@gmail.com)
 
 
