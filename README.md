@@ -6,7 +6,7 @@
 
 - - **Front-End**:
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,boostrap&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=light)](https://skillicons.dev)
 
 - - **Back-End**:
     
