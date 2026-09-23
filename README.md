@@ -22,7 +22,7 @@
 
    
    [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:diiegocabello19@gmail.com)
- ###  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/diiegoc/) ###
+ 
    
 
 
