@@ -8,14 +8,14 @@
 
 - - **Front-End**:
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
 
 - - **Back-End**:
     
-   [![My Skills](https://skillicons.dev/icons?i=javascript,java,nodejs,mysql&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mysql&theme=light)](https://skillicons.dev)
 - - **Softwares and Tools**:
   
-   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light)](https://skillicons.dev)
   
 
 ## Contact with me
