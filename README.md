@@ -12,7 +12,7 @@
 
 - - **Back-End**:
     
-   [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mysql,postgre&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mysql,postgresql&theme=light)](https://skillicons.dev)
 - - **Softwares and Tools**:
   
    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light)](https://skillicons.dev)
