@@ -3,10 +3,7 @@
 <h3 align=center>I'm Software Developer.<h3/>
 <br>
    
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-<iframe src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">via GIPHY</a></p>
-<b> Lenguages and tools</b>
-<br>
+## <img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width ="25"><b> Lenguages and tools</b><br>
 
 - - **Front-End**:
 
