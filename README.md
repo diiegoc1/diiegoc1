@@ -3,7 +3,9 @@
 <h3 align=center>I'm Software Developer.<h3/>
 <br>
    
-## <img src="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1" width ="25"><b> Lenguages and tools</b><br>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg0Y3AwODYxN3cxZGg4YWttcWQ4d3F1ZWp3YXloZW9qOG80djB6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Lenguages and tools</b>
+
+<br>
 
 - - **Front-End**:
 
