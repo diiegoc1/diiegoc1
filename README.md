@@ -3,7 +3,7 @@
 <h3 align=center>I'm Software Developer.<h3/>
 <br>
    
-## <img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width ="25"><b> Lenguages and tools</b><br>
+## <img src="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1" width ="25"><b> Lenguages and tools</b><br>
 
 - - **Front-End**:
 
